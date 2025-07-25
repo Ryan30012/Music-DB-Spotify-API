@@ -1,4 +1,4 @@
-# 363-MusicDB
+# Music DB and Spotify API
 
 Steps:    
 - Run, db_creation.py    
